@@ -1,0 +1,8 @@
+prefix=/home/donghun/catkin_ws/install
+
+Name: offboard_drone
+Description: Description of offboard_drone
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

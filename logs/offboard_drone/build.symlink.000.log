@@ -1,0 +1,5 @@
+Symlinking /home/donghun/catkin_ws/devel/lib/liboffboard_dronelib.so
+Symlinking /home/donghun/catkin_ws/devel/lib/pkgconfig/offboard_drone.pc
+Symlinking /home/donghun/catkin_ws/devel/lib/offboard_drone/offboard_node
+Symlinking /home/donghun/catkin_ws/devel/share/offboard_drone/cmake/offboard_droneConfig.cmake
+Symlinking /home/donghun/catkin_ws/devel/share/offboard_drone/cmake/offboard_droneConfig-version.cmake

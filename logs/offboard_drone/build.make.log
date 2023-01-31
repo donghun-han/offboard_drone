@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target offboard_dronelib[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/offboard_dronelib.dir/lib/offboard.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/donghun/catkin_ws/devel/.private/offboard_drone/lib/liboffboard_dronelib.so[0m
+[ 50%] Built target offboard_dronelib
+[35m[1mScanning dependencies of target offboard_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/donghun/catkin_ws/devel/.private/offboard_drone/lib/offboard_drone/offboard_node[0m
+[100%] Built target offboard_node
